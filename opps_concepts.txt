@@ -1,0 +1,7 @@
+opps concepts 
+bca book ma che opps wada sub ma
+polymorphism=one task perform by diff ways ()fun overloading
+encapsulation=class
+abstraction=abstract class
+class
+inheritance
